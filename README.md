@@ -21,3 +21,5 @@ Realizing the word tally of a book can be significant. For instance, if a writer
 Sitemap Generator Easily generate Google XML sitemaps for free. It Compatible with search engines including Google, Bing, Baidu, Yandex and more.
 
 XML sitemap generator  enable you to quickly and easily get notifies search engines about all the pages in your website and any changes. This ensures they are indexed quickly and correctly, especially with new websites which have lower natural ranking.
+
+<a href="http://plagiarismchecks.com/domain-age-checker">Domain Age Checker</a>
