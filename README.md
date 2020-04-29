@@ -22,4 +22,9 @@ Sitemap Generator Easily generate Google XML sitemaps for free. It Compatible wi
 
 XML sitemap generator  enable you to quickly and easily get notifies search engines about all the pages in your website and any changes. This ensures they are indexed quickly and correctly, especially with new websites which have lower natural ranking.
 
+<a href="http://plagiarismchecks.com/meta-tag-generator">Meta Tag Generator</a> :
+Meta Tag Generator  isn't so hard to make meta tags yet we've made it basic for you by offering you this free meta tag generator or wizard (Free Meta Tag Generator).
+
+By rounding out all the areas of this  generator meta tag wizard it will make impeccable meta tags. Than include the meta tags in the html or php wellspring of your site.
+
 <a href="http://plagiarismchecks.com/domain-age-checker">Domain Age Checker</a>
